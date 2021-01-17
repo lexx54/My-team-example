@@ -11,12 +11,20 @@ body {
 .main-title > h1 {
   font-family: var(--title-letter);
   font-weight: 700;
+  font-size: 2rem;
 }
 
 /*-----Description----*/
+.main-desc > h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
 
 /*-----Members----*/
-
+.card-info h2 {
+  font-size: 600;
+  font-size: 1.5rem;
+}
 .card-job {
   font-family: var(--title-letter);
   font-weight: 400;
