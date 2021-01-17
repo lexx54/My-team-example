@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap");
+:root {
+  --body-letter: "Poppins", sans-serif;
+  --title-letter: "PT Serif", serif;
+}
+body {
+  font-family: var(--body-letter);
+}
+/*---------------------------------MAIN--------------------------------------------*/
+/*-----Title----*/
+.main-title > h1 {
+  font-family: var(--title-letter);
+  font-weight: 700;
+}
+
+/*-----Description----*/
+
+/*-----Members----*/
+
+.card-job {
+  font-family: var(--title-letter);
+  font-weight: 400;
+}
