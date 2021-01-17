@@ -77,3 +77,5 @@ export function contactMaker(){
     $main.appendChild($footer);
   }
 }
+
+contactMaker();
