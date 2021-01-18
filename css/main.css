@@ -8,6 +8,9 @@ body {
 }
 /*---------------------------------MAIN--------------------------------------------*/
 /*-----Title----*/
+.main-title {
+  padding: 0.5rem;
+}
 .main-title > h1 {
   font-family: var(--title-letter);
   font-weight: 700;
@@ -15,17 +18,39 @@ body {
 }
 
 /*-----Description----*/
+.main-desc {
+  padding: 0.5rem;
+}
 .main-desc > h2 {
   font-size: 1.5rem;
   font-weight: 600;
 }
 
 /*-----Members----*/
+.main-members {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+.main-members-card:nth-child(even) {
+  margin-top: 2.5rem;
+}
+.main-members-card {
+  flex: 1 0 40%;
+  padding: 0.5rem;
+  display: flex;
+}
+.card-info img {
+  width: 100%;
+  border-radius: 10px;
+}
 .card-info h2 {
   font-size: 600;
-  font-size: 1.5rem;
+  margin-top: 0.5rem;
 }
 .card-job {
   font-family: var(--title-letter);
   font-weight: 400;
+  writing-mode: vertical-lr;
+  margin-left: 0.5rem;
 }
