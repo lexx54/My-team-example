@@ -36,8 +36,6 @@
 
 ## Overview
 
-[screenshot](htpps://imageupload.io/NxFOpzRDPD.i)
-
 - Check my Github account or portfolio to see all my projects
 - learnt jow to display text in different directions
 
@@ -65,4 +63,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [Portfolio](http://codelexx.epizy.com/)
 - GitHub [@lexx54](https://github.com/lexx54)
-- Twitter [@code_lexx](https://{twitter.com/your-username})
+- Twitter [@code_lexx](https://twitter.com/code_lexx)
