@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://vercel.com/af2f7533-2762-40d0-a654-6bb23ba6aad3)
+[screenshot](blob:https://vercel.com/aaefd8d6-64e6-4dc7-90ca-a46c5cafe004)
 
 - Check my Github account or portfolio to see all my projects
 - learnt jow to display text in different directions
